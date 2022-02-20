@@ -40,7 +40,7 @@ Desafio de programação elaborado por Capgemini Brasil em parceria com ProWay, 
     
     
    EXEMPLO:
-   ![Código, questão 02](https://https://i.imgur.com/4kRK1a9.png)
+   ![Código, questão 02](https://i.imgur.com/4kRK1a9.png)
    
    
    

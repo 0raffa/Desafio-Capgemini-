@@ -20,7 +20,7 @@ Desafio de programação elaborado por Capgemini Brasil em parceria com ProWay, 
     Após executar o programa, informe no console um valor do tipo inteiro 
 
    EXEMPLO:
-   ![Código, questão 01](https://i.imgur.com/3X5uPcG.png)
+   ![Código, questão 01](https://i.imgur.com/FYZOBdi.png)
    
    
  - `Questão 2` : Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
@@ -40,7 +40,7 @@ Desafio de programação elaborado por Capgemini Brasil em parceria com ProWay, 
     
     
    EXEMPLO:
-   ![Código, questão 02](https://i.imgur.com/CYAm4Gl.png)
+   ![Código, questão 02](https://https://i.imgur.com/4kRK1a9.png)
    
    
    
@@ -53,7 +53,7 @@ Desafio de programação elaborado por Capgemini Brasil em parceria com ProWay, 
     
     
    EXEMPLO:
-   ![Código, questão 02](https://i.imgur.com/7udTMRg.png)
+   ![Código, questão 03](https://i.imgur.com/EaxuSKH.png)
    
    
    
